@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tales of a Mystic Land](https://github.com/talesofamysticland/tales-of-a-mystic-land)
 
-- 🌱 I’m currently learning **Java and DataBase**
+- 🌱 I’m currently learning **Java, Python and DataBase**
 
 - 📫 How to reach me **rodrigobaesa@gmail.com**
 
