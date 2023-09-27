@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Baesa</h1>
-<h3 align="center">A System Development student at IFSP and an Information Security enjoyer from Brazil</h3>
+<h3 align="center">A Computer Science student at IFSP and an Information Security enjoyer from Brazil</h3>
 
 - 🔭 I’m currently working on [Tales of a Mystic Land](https://github.com/talesofamysticland/tales-of-a-mystic-land)
 
