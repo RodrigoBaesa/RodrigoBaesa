@@ -1,3 +1,5 @@
+<img align="right" alt="Loop" width="270" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif">
+
 <h1 align="center">Hi 👋, I'm Rodrigo Baesa</h1>
 <h3 align="center">A Computer Science student at IFSP and an Information Security enjoyer from Brazil</h3>
 
