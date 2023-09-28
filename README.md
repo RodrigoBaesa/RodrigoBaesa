@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Baesa</h1>
 <h3 align="center">A Computer Science student at IFSP and an Information Security enjoyer from Brazil</h3>
 
-- 🔭 I’m currently working on [Tales of a Mystic Land](https://github.com/talesofamysticland/tales-of-a-mystic-land)
+- 🔭 I’m currently working on [Tales of a Mystic Land](https://github.com/talesofamysticland/tales-of-a-mystic-land)  <img align="center" src="https://avatars.githubusercontent.com/u/137815903?s=400&u=e9dcf3fa9285e5dcd8346017813df3eacc41b89e&v=4" alt="TiagoSSouza3" height="40" width="40" /></a>
+
 
 - 🌱 I’m currently learning **Java, Python and DataBase**
 
