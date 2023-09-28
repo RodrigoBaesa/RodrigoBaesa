@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tales of a Mystic Land](https://github.com/talesofamysticland/tales-of-a-mystic-land)  <img align="center" src="https://avatars.githubusercontent.com/u/137815903?s=400&u=e9dcf3fa9285e5dcd8346017813df3eacc41b89e&v=4" alt="RodrigoBaesa" height="25" width="25" /></a>
 
-<img align="right" alt="Loop" width="300" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif">
+<img align="right" alt="Loop" width="400" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif">
 - 🌱 I’m currently learning **Java, Python and DataBase**
 
 - 📫 How to reach me **rodrigobaesa@gmail.com**
