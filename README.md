@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning **Java, Python and DataBase**
-<img align="right" alt="Loop" width="600" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif">
+<img align="right" alt="Loop" width="500" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif">
 - 📫 How to reach me **rodrigobaesa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
