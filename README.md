@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Java, Python and DataBase**
 
 - 📫 How to reach me **rodrigobaesa@gmail.com**
+  
 
 <img align="right" alt="Loop" width="400" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif">
 
