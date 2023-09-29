@@ -25,3 +25,5 @@
 <hr style="height: 10px; visibility:hidden;" />
 
 ![rodrigobaesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigobaesa&show_icons=true&theme=tokyonight)
+
+<hr style="height: 10px; visibility:hidden;" />
