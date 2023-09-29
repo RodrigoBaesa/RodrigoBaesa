@@ -8,7 +8,7 @@
 - 📫 How to reach me **rodrigobaesa@gmail.com**
   
 
-<img align="right" alt="Loop" width="400" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif">
+<img align="right" alt="Loop" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
