@@ -24,5 +24,3 @@
 
 
 ![rodrigobaesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigobaesa&show_icons=true&theme=tokyonight)
-
-<img align="center" alt="Line" width="970" src="https://im4.ezgif.com/tmp/ezgif-4-c9bea58870.webp">
