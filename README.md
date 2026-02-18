@@ -9,7 +9,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/rodrigobaesa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo baesa" height="30" width="40" /></a>
-<a href="https://instagram.com/rodrigonzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodrigonzr" height="30" width="40" /></a>
+<a href="https://instagram.com/baesa.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodrigonzr" height="30" width="40" /></a>
 </p>
 
 <br style="line-height: 10px" />
