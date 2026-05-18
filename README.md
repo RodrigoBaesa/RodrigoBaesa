@@ -1,28 +1,24 @@
-<h3 align="center">Hello, I'm Rodrigo Baesa, a Computer Science student at IFSP and an Information Security enjoyer from Brazil</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9966CC&section=header"/>
 
-- 📫 How to reach me **rodrigobaesa@gmail.com**
-  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&letterSpacing=&duration=4500&pause=500&color=9966CC&width=435&lines=Hello%2C+it's+Rodrigo+Baesa!;Software+Developer." alt="Typing SVG" />
 
-<img align="right" alt="Loop" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img src="./static/terminal_baesa.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### Languages & Frameworks
+![Languages & Frameworks](https://skillicons.dev/icons?i=java,py,js,c,cs,html,css,vue,bootstrap,spring)
 
-<a href="https://www.linkedin.com/in/rodrigobaesa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo baesa" height="30" width="40" /></a>
-<a href="https://instagram.com/baesa.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodrigonzr" height="30" width="40" /></a>
-</p>
+### Databases & Tools
+![Databases & Tools](https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,ps)
 
-<br style="line-height: 10px" />
+### Connect with me!
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rodrigobaesa/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:rodrigobaesa@gmail.com)
+[![HackTheBox](https://skillicons.dev/icons?i=redhat)](https://profile.hackthebox.com/profile/019e3c37-96ce-71dd-8af7-fd1c109da031)
 
+### Employer?
 
-![rodrigobaesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigobaesa&show_icons=true&theme=tokyonight)
+> [!IMPORTANT]
+> [Download my resume](https://docs.google.com/document/d/1YRcnJ6LRu96VLr5wiuW_UIcgYtYXfEC1VtbUXt9kpoQ/export?format=pdf)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9966CC&section=footer"/>
