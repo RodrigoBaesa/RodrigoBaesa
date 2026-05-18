@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&letterSpacing=&duration=4500&pause=500&color=9966CC&width=435&lines=Hello%2C+it's+Rodrigo+Baesa!;Software+Developer." alt="Typing SVG" />
 
-<img src="./static/terminal_baesa.gif">
+<img src="./assets/terminal_baesa.gif">
 
 ### Languages & Frameworks
 ![Languages & Frameworks](https://skillicons.dev/icons?i=java,py,js,c,cs,html,css,vue,bootstrap,spring)
